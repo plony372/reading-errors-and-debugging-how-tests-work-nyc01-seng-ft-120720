@@ -2,6 +2,6 @@
 
 first_number = 1
 
-def localVar 
-    second_number = 2
-end
+
+second_number = 2
+
